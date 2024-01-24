@@ -1,2 +1,2 @@
-x = 5
-print(type(x))
+txt = " Hello World "
+x = txt.strip()

@@ -1,3 +1,3 @@
-a = 4
-A = "Sally"
-#A will not overwrite a
+def myfunc() :
+    global x
+    x = "fantastic"

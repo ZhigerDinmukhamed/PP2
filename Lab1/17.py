@@ -1,4 +1,4 @@
-x = "Python"
-y = "is"
-z = "awesome"
-print(x, y, z)
+x = {"name" : "John", "age" : 36}
+print(type(x))
+
+#answer - dict

@@ -1,3 +1,2 @@
-x = 1    # int
-y = 2.8  # float
-z = 1j   # complex
+txt = "Hello World"
+txt = txt.upper()

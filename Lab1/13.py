@@ -1,4 +1,4 @@
-x, y, z = "Orange", "Banana", "Cherry"
-print(x)
-print(y)
-print(z)
+x = "Hello World"
+print(type(x))
+
+#answer - str

@@ -1,4 +1,4 @@
-x = y = z = "Orange"
-print(x)
-print(y)
-print(z)
+x = 20.5
+print(type(x))
+
+#answer - float

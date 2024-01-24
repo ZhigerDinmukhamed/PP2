@@ -1,2 +1,4 @@
-x = "Python is awesome"
-print(x)
+x = ("apple", "banana", "cherry")
+print(type(x))
+
+#answer - tuple

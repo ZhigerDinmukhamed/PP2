@@ -1,6 +1,4 @@
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+x = 5
+print(type(x))
+
+#answer - int

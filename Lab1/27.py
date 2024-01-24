@@ -1,3 +1,2 @@
-print(type(x))
-print(type(y))
-print(type(z))
+txt = "Hello World"
+txt = txt.lower()

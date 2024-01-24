@@ -1,4 +1,4 @@
-x = "Python "
-y = "is "
-z = "awesome"
-print(x + y + z)
+x = True
+print(type(x))
+
+#answer - bool

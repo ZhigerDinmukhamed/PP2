@@ -1,5 +1,4 @@
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
-print(x)
-print(y)
-print(z)
+x = ["apple", "banana", "cherry"]
+print(type(x))
+
+#answer - list
